@@ -6,8 +6,10 @@ This is the simple strategy game. The goal is to figure out the placement of the
 
 ![alt text](http://www.aiai.ed.ac.uk/~gwickler/images/8-queens-config.png)
 
-
+ 
 The format of the solution is: 
 
+![alt text](https://github.com/Nishaant215/8-Queen-Puzzle/blob/master/Solution_Number_format.PNG)
 
 
+![alt text](https://github.com/Nishaant215/8-Queen-Puzzle/blob/master/Solutins%20for%208%20Queen%20Problem.PNG)

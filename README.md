@@ -9,7 +9,7 @@ This is the simple strategy game. The goal is to figure out the placement of the
 
 The format of the solution is: 
 
-              (ROW #1)   (ROW #2)   (ROW #3)   (ROW #4)    (ROW #5)    (ROW #6)    (ROW #7)   (ROW #8)
-              (col_num)  (col_num)  (col_num)  (col_num)   (col_num)   (col_num)   (col_num) (col_num)
+CONSTANT      (ROW #1)   (ROW #2)   (ROW #3)   (ROW #4)    (ROW #5)    (ROW #6)    (ROW #7)   (ROW #8)
+              (col_num)  (col_num)  (col_num)  (col_num)   (col_num)   (col_num)   (col_num)  (col_num)
 
 

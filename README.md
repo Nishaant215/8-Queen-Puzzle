@@ -14,4 +14,5 @@ The format of the solution is:
 ![alt text](https://github.com/Nishaant215/8-Queen-Puzzle/blob/master/Solution_Number_format.PNG)
 
 Sample:
+
 ![alt text](https://github.com/Nishaant215/8-Queen-Puzzle/blob/master/Solutins%20for%208%20Queen%20Problem.PNG)
